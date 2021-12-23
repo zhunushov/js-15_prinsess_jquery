@@ -1,0 +1,25 @@
+{
+  "movies": [
+    {
+      "title": "Spider-Man 1 new newee",
+      "desc": "Very good film",
+      "price": "300 00000",
+      "img": "https://image.api.playstation.com/vulcan/img/rnd/202011/0714/vuF88yWPSnDfmFJVTyNJpVwW.png",
+      "id": 1
+    },
+    {
+      "title": "wfniern tvq3",
+      "price": "23",
+      "img": "https://avatars.mds.yandex.net/get-kinopoisk-image/1704946/ed786128-dcea-431c-bd0f-ffc180b02a61/300x450",
+      "desc": "qer",
+      "id": 2
+    },
+    {
+      "title": "b sot",
+      "price": "y54",
+      "img": "https://avatars.mds.yandex.net/get-kinopoisk-image/1704946/ed786128-dcea-431c-bd0f-ffc180b02a61/300x450",
+      "desc": "y54",
+      "id": 3
+    }
+  ]
+}
